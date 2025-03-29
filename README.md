@@ -21,4 +21,4 @@ This guide is aimed at individuals with intermediate web literacy, you are expec
 Each of the chapters will have at least 1 flag formatted as `flag{FL4G_H3RE}`, you can submit the md5 hash of the flag to be added to the winners section.
 
 ## Winners
-- No one yet ;)
+- [@justchokingaround](https://github.com/justchokingaround) - Understanding packers / Intro to transformation obfuscation / Defeating anti tampering
