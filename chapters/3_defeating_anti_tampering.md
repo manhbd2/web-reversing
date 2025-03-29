@@ -69,8 +69,7 @@ TODO: // Finish self referencing transformer
 
 ## Challenge
 Slightly big file:
-[Download challenge][1]
-[1]:/web-reversing/download/anti-tampering-challenge.txt
+[Download challenge](/web-reversing/download/anti-tampering-challenge.txt)
 
 # Clues to defeat (spoilers):
 
