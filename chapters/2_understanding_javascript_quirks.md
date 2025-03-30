@@ -49,6 +49,7 @@ JSF*ck is an esoteric subset of JavaScript that uses only six characters:
 - `)`
 - `!`
 - `+`
+
 To write executable code, exploiting JavaScript's coercion rules:
 - false -> ![] (since [] is truthy, ![] becomes false).
 - 0 -> +[] (empty array converted to 0).
