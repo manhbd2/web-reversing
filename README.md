@@ -21,7 +21,7 @@ This guide is aimed at individuals with intermediate web literacy, you are expec
 7. [Keep It Simple Stupid (KISS)](https://ciarands.github.io/web-reversing/chapters/6_keep_it_simple_stupid) - Think like an attacker
 
 ## Challenges
-Each of the chapters will have at least 1 flag formatted as `flag{FL4G_H3RE}`, you can submit the md5 hash of the flag to be added to the winners section.
+Each of the chapters will have at least 1 flag formatted as `flag{FL4G_H3RE}`, you can submit the md5 hash of the flag in [Github Issues](https://github.com/Ciarands/web-reversing/issues/new?template=solved-challenge.md) to be added to the winners section.
 
 ## Winners
 - [@justchokingaround](https://github.com/justchokingaround) - Understanding packers / Intro to transformation obfuscation / Defeating anti tampering
