@@ -42,7 +42,7 @@ console.log("a" + "b");  // "ab"
 
 ## Looking into JSF*ck
 An real application of this behaviour is [JSF*ck](https://jsfuck.com/).
-JSF*ck is an esoteric subset of JavaScript that uses only six characters:
+JSF\*ck is an esoteric subset of JavaScript that uses only six characters:
 - `[`
 - `]`
 - `(`
