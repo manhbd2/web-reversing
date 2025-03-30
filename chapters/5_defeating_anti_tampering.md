@@ -104,5 +104,5 @@ Slightly big file:
 ---
 
 <p align="center">
-  <a href="/web-reversing/chapters/2_intro_to_transformation_obfuscation">← Previous Chapter</a> 
+  <a href="/web-reversing/chapters/4_intro_to_transformation_obfuscation">← Previous Chapter</a> 
 </p>

@@ -169,5 +169,5 @@ Retrieve the flag from this custom-packed script:
 
 <p align="center">
   <a href="/web-reversing/chapters/0_getting_started">← Previous Chapter</a> |
-  <a href="/web-reversing/chapters/2_intro_to_transformation_obfuscation">Next Chapter →</a>
+  <a href="/web-reversing/chapters/2_understanding_javascript_quirks">Next Chapter →</a>
 </p>
