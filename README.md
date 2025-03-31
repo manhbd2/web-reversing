@@ -25,3 +25,4 @@ Each of the chapters will have at least 1 flag formatted as `flag{FL4G_H3RE}`, y
 
 ## Winners
 - [@justchokingaround](https://github.com/justchokingaround) - Understanding packers / Intro to transformation obfuscation / Defeating anti tampering
+- [@kaorlol](https://github.com/kaorlol) - Understanding packers / Intro to transformation obfuscation
