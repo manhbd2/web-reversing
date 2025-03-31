@@ -164,7 +164,7 @@ Function.constructor.call.call.call.call.call.call.call.call.call.call.call.call
 console.log(l);
 ```
 
-# Hints (spoilers):
+## Hints (spoilers):
 <details>
   <summary>Hint 1</summary>
   

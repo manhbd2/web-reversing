@@ -71,7 +71,7 @@ TODO: // Finish self referencing transformer
 Slightly big file:
 [Download challenge](/web-reversing/download/anti-tampering-challenge.txt)
 
-# Hints (spoilers):
+## Hints (spoilers):
 
 <details>
   <summary>Hint 1</summary>

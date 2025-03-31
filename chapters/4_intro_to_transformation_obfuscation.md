@@ -307,7 +307,7 @@ try {
 }
 ```
 
-# Hints (spoilers):
+## Hints (spoilers):
 
 <details>
   <summary>Hint 1</summary>
