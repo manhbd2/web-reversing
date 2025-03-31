@@ -70,21 +70,27 @@ However, there are many instances where you may want to reverse engineer this fu
 Starting off, we can see there is an anonymous function inside the eval call.
 For now, let's ignore everything inside the anonymous function and look at the function arguments. We can see that there are 6 unique args. Let's break down what is being passed:
 - p = type("string")
+
 We can see that the p argument looks a little like pseudocode; assignments are being made, and they're later referenced in a "g.h" call.
 
 - a = type("integer")
+
 There isn't much noteworthy about this yet; let's pass over this for now.
 
 - c = type("integer")
+
 Same as a, not particularly noteworthy.
 
 - k = type("array")
+
 This is a little more interesting; here we can see a string being split at each "|" into an array. In this we can see some indexes that stand out, such as "var" and "console".
 
 - e = type("integer")
+
 An integer that is 0; this could be used as an integer or a falsy value in the future.
 
 - d = type("object")
+
 An empty object.
 
 ## Understanding the Replacement Mechanism

@@ -16,7 +16,7 @@ This can lead to strange results...
 
 ## Weird Behavior from Type Inference
 There is so much strange behaviour I could write an essay on this alone, I would encourage you to check out:
-> https://github.com/denysdovhan/wtfjs
+- https://github.com/denysdovhan/wtfjs
 
 But lets cover some of the simple things.
 JavaScript's type coercion rules determine how operators behave:
@@ -98,7 +98,7 @@ console.log(evalDecode(code));
 ```
 
 ## Other Strange Quirks
-> Truthy but Not true
+- Truthy but Not true
 
 Values are truthy if they evaluate to true in a boolean context, but aren't necessarily equal to true:
 ```js
@@ -108,7 +108,7 @@ if ("0") {
 console.log("0" == true); // false ("0" -> 0, true -> 1 -> 0 ≠ 1)
 ```
 
-> Falsy but Not false
+- Falsy but Not false
 
 Falsy values include false, 0, "", null, undefined, and NaN. However, comparisons can be misleading:
 ```js
