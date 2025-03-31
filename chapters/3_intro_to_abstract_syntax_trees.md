@@ -93,8 +93,8 @@ Using a tool like [AST Explorer](https://astexplorer.net/), we can generate its 
 ```
 
 **1. Observations:**
-> Nodes like FunctionDeclaration and Identifier map directly to code constructs.
-> Nesting of statements is perserved in the tree structure (e.g ReturnStatement inside BlockStatement).
+- Nodes like FunctionDeclaration and Identifier map directly to code constructs.
+- Nesting of statements is perserved in the tree structure (e.g ReturnStatement inside BlockStatement).
 
 **2. Traversing and Modifying**
 Tools like Babel allow programmatic traversal and modification of ASTs. 
