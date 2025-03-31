@@ -15,7 +15,7 @@ This guide is aimed at individuals with intermediate web literacy, you are expec
 1. [Getting Started](https://ciarands.github.io/web-reversing/chapters/0_getting_started) - Introduction and setup
 2. [Understanding Packers](https://ciarands.github.io/web-reversing/chapters/1_understanding_packers) - Learn about web application packers
 3. [Understanding Javascript Quirks](https://ciarands.github.io/web-reversing/chapters/2_understanding_javascript_quirks) - Learn about some quirks in Javascript
-4. [Intro to Abstract Syntax Trees](https://ciarands.github.io/web-reversing/chapters/3_intro_to_abstract_sytnax_trees) - What are Abstract Syntax Trees?
+4. [Intro to Abstract Syntax Trees](https://ciarands.github.io/web-reversing/chapters/3_intro_to_abstract_syntax_trees) - What are Abstract Syntax Trees?
 5. [Intro to Transformation Obfuscation](https://ciarands.github.io/web-reversing/chapters/4_intro_to_transformation_obfuscation) - Basic transformation techniques
 6. [Defeating Anti-Tampering](https://ciarands.github.io/web-reversing/chapters/5_defeating_anti_tampering) - Advanced techniques for bypassing protections
 7. [Keep It Simple Stupid (KISS)](https://ciarands.github.io/web-reversing/chapters/6_keep_it_simple_stupid) - Think like an attacker
