@@ -71,22 +71,22 @@ TODO: // Finish self referencing transformer
 Slightly big file:
 [Download challenge](/web-reversing/download/anti-tampering-challenge.txt)
 
-# Clues to defeat (spoilers):
+# Hints (spoilers):
 
 <details>
-  <summary>Step 1</summary>
+  <summary>Hint 1</summary>
   
   Iterate all functions and index the `length` and the `.toString()`.`length` of each.
 </details>
 
 <details>
-  <summary>Step 2</summary>
+  <summary>Hint 2</summary>
   
   Replace `func['length']` with the indexed length and `[func+[]][+[]]['length']` with the toStringed length
 </details>
 
 <details>
-  <summary>Step 3</summary>
+  <summary>Hint 3</summary>
   
   Arbitrary modification is now possible, you can now inline all operation functions regardless of parameter count e.g 
 
@@ -94,7 +94,7 @@ Slightly big file:
 </details>
 
 <details>
-  <summary>Step 4</summary>
+  <summary>Hint 4</summary>
   
   Isolate the statements that direct to each branch.
 

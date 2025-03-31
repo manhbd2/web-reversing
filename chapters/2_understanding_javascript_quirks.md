@@ -164,6 +164,20 @@ Function.constructor.call.call.call.call.call.call.call.call.call.call.call.call
 console.log(l);
 ```
 
+# Hints (spoilers):
+<details>
+  <summary>Hint 1</summary>
+  
+  Charcodes correspond to the quantity of "call"s per function.
+</details>
+
+<details>
+  <summary>Hint 2</summary>
+  
+  You can modify the code to add the charcodes to something more easily converted to a string.
+</details>
+
+
 <p align="center"> 
   <a href="/web-reversing/chapters/1_understanding_packers">← Previous Chapter</a> | 
   <a href="/web-reversing/chapters/3_intro_to_abstract_syntax_trees">Next Chapter -></a> 
