@@ -116,7 +116,7 @@ console.log([] == false); // true ([] -> "" -> 0, false -> 0)
 console.log(!![]);        // true ([] is truthy)
 ```
 
-## Challenge
+## Challenge (5 points)
 ```js
 // I seem to have lost my flag inside this weird datastructure, can you extract the charcodes and re-assemble it?
 let l = {

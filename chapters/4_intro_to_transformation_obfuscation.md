@@ -204,7 +204,7 @@ This ability is best refined through experience, even simple challenges will hav
 
 It may sound like generic advice, but practice really does make perfect.
 
-## Challenge
+## Challenge (15 points)
 Retrieve the flag from this custom transformation obfuscated script (Bonus points for reconstructing the decryption algorithm):
 ```js
 function _0x5630f6f4f99af80a(_0x7a1bcd3de8b2334c) {

@@ -67,7 +67,7 @@ preimagedHashFunc();
 ## Self-referential logic 
 TODO: // Finish self referencing transformer
 
-## Challenge
+## Challenge (30 points)
 Slightly big file:
 [Download challenge](/web-reversing/download/anti-tampering-challenge.txt)
 

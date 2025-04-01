@@ -24,5 +24,5 @@ This guide is aimed at individuals with intermediate web literacy, you are expec
 Each of the chapters will have at least 1 flag formatted as `flag{FL4G_H3RE}`, you can submit the md5 hash of the flag in [Github Issues](https://github.com/Ciarands/web-reversing/issues/new?template=solved-challenge.md) to be added to the winners section.
 
 ## Winners
-- [@justchokingaround](https://github.com/justchokingaround) - Understanding packers / Intro to transformation obfuscation / Defeating anti tampering
-- [@kaorlol](https://github.com/kaorlol) - Understanding packers / Intro to transformation obfuscation
+- [@justchokingaround](https://github.com/justchokingaround) - 50 points
+- [@kaorlol](https://github.com/kaorlol) - 20 points

@@ -148,7 +148,7 @@ const s = "Hello World";
 - [Babel](https://github.com/babel/babel): Parse, traverse, and generate code.
 - [Recast](https://github.com/benjamn/recast): AST-to-code conversion with formatting preservation.
 
-## Challenge
+## Challenge (5 points)
 ```json
 {
   "type": "Program",
