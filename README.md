@@ -24,5 +24,6 @@ This guide is aimed at individuals with intermediate web literacy, you are expec
 Each of the chapters will have at least 1 flag formatted as `flag{FL4G_H3RE}`, you can submit the md5 hash of the flag in [Github Issues](https://github.com/Ciarands/web-reversing/issues/new?template=solved-challenge.md) to be added to the winners section.
 
 ## Winners
-- [@justchokingaround](https://github.com/justchokingaround) - 50 points
-- [@kaorlol](https://github.com/kaorlol) - 20 points
+- [@pawhash](https://github.com/pawhash) - 60 point(s)
+- [@justchokingaround](https://github.com/justchokingaround) - 50 point(s)
+- [@kaorlol](https://github.com/kaorlol) - 20 point(s)
