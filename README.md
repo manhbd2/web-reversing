@@ -28,5 +28,5 @@ Each of the chapters will have at least 1 flag formatted as `flag{FL4G_H3RE}`, y
 
 ## Winners
 - [@pawhash](https://github.com/pawhash) - 60 point(s)
-- [@justchokingaround](https://github.com/justchokingaround) - 50 point(s)
+- [@justchokingaround](https://github.com/justchokingaround) - 60 point(s)
 - [@kaorlol](https://github.com/kaorlol) - 20 point(s)
